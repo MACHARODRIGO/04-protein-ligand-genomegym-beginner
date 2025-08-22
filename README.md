@@ -44,7 +44,7 @@ conda install -c conda-forge gemmi rdkit
 You can explore this challenge directly in Jupyter Notebook.
 
 - **Option 1: Google Colab (recommended for beginners)**  
-  [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MACHARODRIGO/04-protein-ligand-genomegym-beginner/blob/main/protein_ligand_beginner.ipynb](https://colab.research.google.com/github/MACHARODRIGO/04-protein-ligand-genomegym-beginner/blob/main/protein_ligand_beginner.ipynb))
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MACHARODRIGO/04-protein-ligand-genomegym-beginner/blob/main/protein_ligand_beginner.ipynb)
 
 - **Option 2: Local Jupyter**  
   Clone this repo and open the notebook manually:
