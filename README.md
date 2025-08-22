@@ -43,7 +43,7 @@ conda install -c conda-forge gemmi rdkit
 
 1. **Clone this repository:**
 ```bash
-git clone https://github.com/<username>/protein-ligand-beginner.git
+git clone https://github.com/MACHARODRIGO/04-protein-ligand-genomegym-beginner
 cd protein-ligand-beginner
 ```
 2. **Activate the environment with the required dependencies.**
