@@ -30,13 +30,6 @@ Understanding how to **read and manipulate proteins and ligands in silico** is e
 - [Gemmi](https://gemmi.readthedocs.io/)  
 - [RDKit](https://www.rdkit.org/)  
 
-Recommended installation with `conda`:
-```bash
-conda create -n protein-beginner python=3.9
-conda activate protein-beginner
-conda install -c conda-forge gemmi rdkit
-```
-
 ---
 
 ## 🚀 Usage
